@@ -1,0 +1,2 @@
+/usr/sbin/ar qc libSearchLib.a CMakeFiles/SearchLib.dir/FileSearch.cpp.o
+/usr/sbin/ranlib libSearchLib.a

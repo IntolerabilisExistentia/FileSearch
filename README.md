@@ -1,5 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14997427&assignment_repo_type=AssignmentRepo)
-# Лабораторная работа 11
+# FileSearch
 
 Simple Search Engine
 
@@ -74,12 +73,3 @@ Simple Search Engine
     - Оптимальной придуманных вам структур и форматов хранения
 
 На Хабре есть [статья](https://habr.com/ru/articles/545634/) хорошо описывающая инвертировнный индекс и поиск по нему.
-
-
-## Deadline
-
-1. 15.05.24. 0.8
-2. 22.05.24. 0.65
-3. 29.05.24. 0.5
-
-Максимальное количество баллов - 15
