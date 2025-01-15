@@ -1,2 +1,0 @@
-/usr/sbin/ar qc libIndexLib.a CMakeFiles/IndexLib.dir/DirReader.cpp.o CMakeFiles/IndexLib.dir/PostingFile.cpp.o
-/usr/sbin/ranlib libIndexLib.a

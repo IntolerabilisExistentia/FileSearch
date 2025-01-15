@@ -1,1 +1,0 @@
-/usr/sbin/c++ CMakeFiles/SearchProgram.dir/SearchProgram.cpp.o -o SearchProgram  ../lib/SearchLib/libSearchLib.a
